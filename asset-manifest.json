@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dnd-survey/static/css/main.f4e5c959.css",
+    "main.js": "/dnd-survey/static/js/main.cdd74689.js",
+    "static/js/787.3b5bac6f.chunk.js": "/dnd-survey/static/js/787.3b5bac6f.chunk.js",
+    "index.html": "/dnd-survey/index.html",
+    "main.f4e5c959.css.map": "/dnd-survey/static/css/main.f4e5c959.css.map",
+    "main.cdd74689.js.map": "/dnd-survey/static/js/main.cdd74689.js.map",
+    "787.3b5bac6f.chunk.js.map": "/dnd-survey/static/js/787.3b5bac6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4e5c959.css",
+    "static/js/main.cdd74689.js"
+  ]
+}
