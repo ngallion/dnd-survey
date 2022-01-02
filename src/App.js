@@ -1,5 +1,3 @@
-import './App.css';
-
 // Modern theme
 import 'survey-react/modern.min.css';
 // Default theme
